@@ -5,4 +5,10 @@ ________________________________________________________________________________
 Repo para prueba de subir api a railways
 ___________________________________________________________________________________________
 
-Credenciales para railweys
+Credenciales para railways
+
+DB_HOST=mysql.railway.internal
+DB_PORT=3306
+DB_NAME=railway
+DB_USER=root
+DB_PASSWORD=YRZpwVDOBNYclKLTrEktYwmdxHUtbohL
